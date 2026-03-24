@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<courses>
+    <course>
+        <title>Web Development</title>
+        <instructor>Shiva</instructor>
+        <price>2500</price>
+    </course>
+    <course>
+        <title>Python Programming</title>
+        <instructor>Anila</instructor>
+        <price>2000</price>
+    </course>
+</courses>

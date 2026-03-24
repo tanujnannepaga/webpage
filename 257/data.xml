@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+  <course id="c1">
+    <title>Web Development</title>
+    <instructor>Shiva</instructor>
+    <price>2500</price>
+    <rating>4.5</rating>
+  </course>
+  <course id="c2">
+    <title>Python Programming</title>
+    <instructor>Anila</instructor>
+    <price>2000</price>
+    <rating>4.7</rating>
+  </course>
+</courses>
